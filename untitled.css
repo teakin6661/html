@@ -1,0 +1,26 @@
+body{
+	background: url('background.jpg');
+	background-size: 100%;
+	text-shadow: blue ;
+	color: darkslateblue;
+
+}
+img{
+	box-shadow: grey;
+
+}
+.judul{
+	margin: 100px 500px 100px 500px;
+	padding: 20px;
+	height: 100px;
+	width: 500px;
+	font-family: arial;
+	text-align: center;
+	background: url(assassins_creed_emblem_background_sign_21382_1366x768.jpg);
+	background-position: center;
+	opacity: 50%;
+		
+}
+.isi{
+	background: ;
+}
